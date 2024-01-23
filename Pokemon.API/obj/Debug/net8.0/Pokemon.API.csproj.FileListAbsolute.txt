@@ -1,0 +1,17 @@
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Pokemon.API.exe
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Pokemon.API.deps.json
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Pokemon.API.runtimeconfig.json
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Pokemon.API.dll
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Pokemon.API.pdb
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.csproj.AssemblyReference.cache
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.AssemblyInfoInputs.cache
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.AssemblyInfo.cs
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.csproj.CoreCompileInputs.cache
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.csproj.CopyComplete
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.dll
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\refint\Pokemon.API.dll
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.pdb
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\Pokemon.API.genruntimeconfig.cache
+D:\Projeto_vs_dotnet_c#\Pokemon.API\Pokemon.API\obj\Debug\net8.0\ref\Pokemon.API.dll
